@@ -1,0 +1,7 @@
+.gitigore
+*.pyc
+*¬
+myvenv
+db.sqlite3
+/statc
+.DS_Store
